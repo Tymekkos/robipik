@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647595955 source:z:\cpp\robipik\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
